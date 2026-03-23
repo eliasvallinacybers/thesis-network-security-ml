@@ -1,0 +1,8 @@
+{
+  "python": "3.12.12",
+  "platform": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "pandas": "2.2.2",
+  "numpy": "2.0.2",
+  "pyarrow": "18.1.0",
+  "sklearn": "1.6.1"
+}

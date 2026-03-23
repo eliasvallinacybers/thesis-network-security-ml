@@ -1,0 +1,6 @@
+{
+  "dataset": "CIC-IDS2018",
+  "seed": 42,
+  "label_col": "label",
+  "key_strategy": "auto"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Friday-16-02-2018_TrafficForML_CICFlowMeter.csv",
+    "name": "Friday-16-02-2018_TrafficForML_CICFlowMeter.csv",
+    "size_bytes": 333723605
+  },
+  {
+    "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv",
+    "name": "Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv",
+    "size_bytes": 375945899
+  },
+  {
+    "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv",
+    "name": "Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv",
+    "size_bytes": 358223333
+  },
+  {
+    "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/prepared/train_full.csv",
+    "name": "train_full.csv",
+    "size_bytes": 924676723
+  },
+  {
+    "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/prepared/val_full.csv",
+    "name": "val_full.csv",
+    "size_bytes": 231261500
+  }
+]

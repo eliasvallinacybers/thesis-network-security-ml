@@ -1,0 +1,17 @@
+{
+  "dataset": "CIC-IDS2018",
+  "seed": 42,
+  "python": "3.12.12",
+  "pandas": "2.2.2",
+  "numpy": "2.0.2",
+  "pyarrow": "18.1.0",
+  "sklearn": "1.6.1",
+  "platform": "Linux-6.6.105+-x86_64-with-glibc2.35",
+  "base": "/content/drive/MyDrive/TFG/DATASETS/IDS2018",
+  "prepared": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/prepared",
+  "parquet_parts": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/prepared/parquet_parts",
+  "models_dir": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/models_ids2018",
+  "reports_dir": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/reports_ids2018",
+  "export_dir": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/export",
+  "ts": "2025-10-19T15:02:31"
+}
