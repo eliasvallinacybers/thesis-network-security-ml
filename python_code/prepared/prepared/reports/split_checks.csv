@@ -1,6 +1,0 @@
-Métrica,Valor,Límite,OK
-Desvío tamaño TRAIN (pp),9.893983104053905,10.0,True
-Desvío tamaño VAL (pp),2.2045553886623908,10.0,True
-Desvío tamaño TEST (pp),7.689427715391525,10.0,True
-Gap VAL–TRAIN (pp),7.449193110903058,16.0,True
-Rango prevalencias (pp),19.48798780249016,20.0,True

@@ -1,9 +1,0 @@
-{
-  "KEY_COLS": [
-    "flow_key"
-  ],
-  "LABEL_COL": "label",
-  "df_keys_cols": [
-    "flow_key"
-  ]
-}
