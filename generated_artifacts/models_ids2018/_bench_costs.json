@@ -1,0 +1,11 @@
+{
+  "Temps d\u2019entrenament (fit) [min]": 0.47,
+  "Iteracions utilitzades (early stopping)": 177,
+  "Pic de mem\u00f2ria (Peak RAM) [GiB]": 1.0,
+  "Mida del model (disc) [MB]": 0.7,
+  "Lat\u00e8ncia per flux (infer\u00e8ncia) [ms/flux]": 0.016,
+  "Throughput estimat [flux/s]": 62969,
+  "Maquinari (CPU / RAM)": "x86_64 / 12.7 GB",
+  "Sistema / Python": "Linux-6.6.105+-x86_64-with-glibc2.35 / 3.12.12",
+  "Pandas / NumPy / scikit-learn": "2.2.2 / 2.0.2 / 1.6.1"
+}

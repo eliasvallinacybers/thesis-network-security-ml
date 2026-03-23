@@ -1,0 +1,22 @@
+{
+  "dataset": "CIC-IDS2018",
+  "base": "/content/drive/MyDrive/TFG/DATASETS/IDS2018",
+  "files": [
+    {
+      "name": "Friday-16-02-2018_TrafficForML_CICFlowMeter.csv",
+      "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Friday-16-02-2018_TrafficForML_CICFlowMeter.csv",
+      "size_mb": 318.3
+    },
+    {
+      "name": "Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv",
+      "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Thursday-15-02-2018_TrafficForML_CICFlowMeter.csv",
+      "size_mb": 358.5
+    },
+    {
+      "name": "Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv",
+      "path": "/content/drive/MyDrive/TFG/DATASETS/IDS2018/Wednesday-14-02-2018_TrafficForML_CICFlowMeter.csv",
+      "size_mb": 341.6
+    }
+  ],
+  "timestamp": "2025-09-07T15:37:54"
+}
