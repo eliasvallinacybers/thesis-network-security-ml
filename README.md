@@ -1,1 +1,3 @@
-In this repository, you can find my final thesis, as well as my own cybersecurity and networking reports.
+In this repository, you'll find my final thesis. 
+The folders here contain the following documents:
+- tfg
